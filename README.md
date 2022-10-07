@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This project is for responsive ui with web and mobile screen.
+If you stretch out screen size in web, non-application screen will be smaller as you want.
+Since I had a hard time drawing this ui, I am sharing this repository to inform you that it is possible in this way.
+Good luck.
 
-A few resources to get you started if this is your first Flutter project:
+## Web Screen
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/44552228/194454265-55c17a82-04b9-4f88-b5a3-9d17d0e2e018.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Mobile Screen
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/44552228/194455065-c22af91a-0236-4ddc-92d4-a1e52fee4a74.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
